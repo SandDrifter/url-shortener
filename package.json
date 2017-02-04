@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "private":"true",
   "engines": {
     "node": "4.6.1",
     "npm": "2.15.9"
